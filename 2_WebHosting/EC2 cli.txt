@@ -1,0 +1,15 @@
+sudo su -
+yum update -y
+// Apache HTTP Server & git
+yum install -y git httpd
+
+git clone https://github.com/coriandar/honestFeedbackApp.git
+cd honestFeedbackApp/
+mv * /var/www/html
+
+
+systemctl status httpd
+systemctl enable httpd
+systemctl start httpd
+
+did not use EBS snapshot as it requires same region and not efficient
