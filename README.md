@@ -1,5 +1,8 @@
 # SummerAWS Project Stuff
 
+# Domain Names
+baneung.xyz
+
 // Change values
 $ aws configure
 AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
