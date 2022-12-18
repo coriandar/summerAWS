@@ -1,9 +1,13 @@
 # SummerAWS Project Stuff
 
-# Domain Names
+## TODO
+https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
+https://www.reddit.com/r/aws/comments/twdk16/writing_to_dynamodb_why_is_this_so_hard/ cc
+
+## Domain Names
 baneung.xyz
 
-# CLI Configure
+## CLI Configure
     aws configure
     AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
     AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
@@ -19,7 +23,7 @@ baneung.xyz
         "Arn": "arn:aws:iam::218995704924:user/hfdev"
     }
 
-# EC2 Webhosting commands
+## EC2 Webhosting commands
     sudo su -
     yum update -y
     // Apache HTTP Server & git
