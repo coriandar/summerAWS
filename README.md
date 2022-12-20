@@ -2,7 +2,11 @@
 
 ## TODO
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
-https://www.reddit.com/r/aws/comments/twdk16/writing_to_dynamodb_why_is_this_so_hard/ cc
+https://www.reddit.com/r/aws/comments/twdk16/writing_to_dynamodb_why_is_this_so_hard/
+https://www.youtube.com/watch?v=O7cF8-bz2jE&list=PL55RiY5tL51rudermnWTq1LlGC1BL1g3l&index=4
+https://docs.amazonaws.cn/en_us/sdk-for-javascript/v3/developer-guide/cross-service-example-submitting-data.html
+https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/cross-service-example-submitting-data.html
+https://medium.com/@kjthorpe18/how-to-build-a-serverless-web-app-with-react-api-gateway-lambda-dynamodb-f53c5dc1a53e
 
 ## Domain Names
 baneung.xyz
